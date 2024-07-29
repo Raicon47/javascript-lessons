@@ -1,0 +1,36 @@
+JAVASCRIPT
+
+VARIABLES
+A variable is a container we use to store reusable values in our application.
+
+VARAIBLE TYPES
+-String
+-Integer
+-Boolean
+-Float
+-Null
+-Object
+-Array
+-class
+-function
+
+VARAIBLE DECLARATION TYPES
+-var 
+-let
+-const
+
+OPERATORS
+=
++
+-
+*
+%
+&&
+||
+!
+
+ARRAY INSERTION AND REMOVAL METHODS
+-push(): adds item from the bottom of the array
+-pop(): removed item from the bottom of the array
+-unshift: adds item from the top of the array
+-shift: removed item from the top of the array

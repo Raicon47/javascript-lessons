@@ -71,5 +71,27 @@ car1 = new Cars('Volvo', 2011)
 
 car2 = new Cars('Honda', 2014, )
 
-console.log()
+//function
+function add(input_1, input_2)
+{
+    return input_1 + input_2
+}
 
+function multiplication(input_1, input_2)
+{
+    return input_1 * input_2
+}
+
+// discount application
+// cost - 1,000
+// discount - 20%
+// payment - money charged
+
+function discount(cost)
+{
+    let discount = cost * 0.20
+    let payment = cost - discount
+    return payment
+}
+
+console.log(discount(1000))
